@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recipe Keeper</string>
+
+    <string name="txtTitle_string">Recipe Keeper by Colonia, Kurt Robin</string>
+
+    <string name="addRecipeName_btnTxt">Add Recipe Name</string>
+    <string name="addIngredient_btnTxt">Add Ingredients</string>
+    <string name="addInstruction_btnTxt">Add Instructions</string>
+    <string name="saveRecipe_btnTxt">Save Recipe</string>
+    <string name="clearAll_btnTxt">Clear All</string>
+
+    <string name="edtRecipeName_placeholder">Enter Recipe Name</string>
+    <string name="edtIngredients_placeholder">Enter Ingredients</string>
+    <string name="edtInstructions_placeholder">Enter Instructions</string>
+</resources>
